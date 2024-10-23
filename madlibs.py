@@ -15,8 +15,8 @@ acrobatic1 = input("Type an acrobatic move: ")
 
 print(f"""Since the beginning of time there was a {adjective1} {place1}.
 {name1} used to visit this place when he was {age1}. 
-At the {place1}, he found an abandoned {animal1} which he adopted with the help of his friend {name2}. 
-{name1} and {name2} enjoyed raising the {animal1} and during the summer signed up their {animal1} for a circus performance.
+At the {place1}, he found an abandoned {animal1} which he adopted with the help of his friend, {name2}. 
+{name1} and {name2} enjoyed raising the {animal1}, and during the summer they signed up their {animal1} for a circus performance.
 The {animal1} was an incredible performer and made the audience {emotion1}. 
 During the performance, {name2} forgot her {noun2} to record the show and {verb1} home to retrieve it.
 As she {verb2} through the door and entered her house, a loud {noise1} from behind made her jump. {name2}'s younger brother had stolen her {noun2} and broke it. 
